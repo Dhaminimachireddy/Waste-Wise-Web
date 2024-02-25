@@ -1,2 +1,10 @@
-# Waste-Wise-Web
-The project aims to facilitate food donations to NGOs, old age homes, and orphanages via a user-friendly website. It includes features for user registration, donation form submission, and database management by NGOs. Utilizing geolocation services and user authentication, the platform ensures efficient coordination and transparency in the donation process.
+
+  # locofy-html-css-project
+
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
